@@ -4,7 +4,7 @@
 
 cat > /etc/systemd/system/sd.sh <<EOF
 #!/bin/bash
-shutdown 60
+shutdown 120
 
 EOF
 
